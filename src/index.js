@@ -1,5 +1,7 @@
 import "./styles.css";
 
+var val1 = "car変数";
+console.log(val1);
 document.getElementById("app").innerHTML = `
 <h1>Hello Vanilla!</h1>
 <div>
